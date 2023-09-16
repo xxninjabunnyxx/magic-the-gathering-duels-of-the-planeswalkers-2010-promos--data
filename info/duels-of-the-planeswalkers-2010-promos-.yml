@@ -1,0 +1,15 @@
+---
+object: set
+id: ec8ce795-db8a-44f2-83ac-d6a6914ee4db
+code: pdp10
+name: 'Duels of the Planeswalkers 2010 Promos '
+uri: https://api.scryfall.com/sets/ec8ce795-db8a-44f2-83ac-d6a6914ee4db
+scryfall_uri: https://scryfall.com/sets/pdp10
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apdp10&unique=prints
+released_at: '2010-01-01'
+set_type: promo
+card_count: 2
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/pmtg2.svg?1694404800
